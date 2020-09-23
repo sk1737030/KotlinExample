@@ -1,6 +1,0 @@
-package Exam
-
-fun main() {
-
-}
-
