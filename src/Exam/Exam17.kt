@@ -22,7 +22,7 @@ package Exam
  * private 클래스 내부에서만 접근 가능
  * protected 클래스 자신과 상속받은 클래스에서 접근가능
  */
-val a = "패키지 스코프"
+private val a = "패키지 스코프"
 fun main() {
     println(a)
     B().print();
